@@ -1,0 +1,5 @@
+S3 BUCKET NAME:alert-for-disaster-management-team1-2026
+LAMBDA FUNCTION NANE:Process-Disaster-Image
+AWS REGION:US East (N. Virginia) us-east-1
+DYNAMODB TABLE NAME:DisasterReports
+SNS TOPIC NAME:DisasterAlerts

@@ -1,0 +1,10 @@
+{
+  "val_accuracy": 0.7272727272727273,
+  "num_images": 59,
+  "class_counts": {
+    "Flood": 28,
+    "Fire": 9,
+    "Cyclone": 7,
+    "Normal": 4
+  }
+}
