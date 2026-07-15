@@ -1,4 +1,4 @@
-# Satellite-Based Disaster Monitoring and alert system
+# Satellite-Based Disaster Monitoring and Alert system
 
 Cloud-ready disaster monitoring platform: upload satellite images, classify disasters (Flood / Fire / Cyclone), view dashboard, reports, and alerts.
 
