@@ -1,4 +1,4 @@
-#Satellite-Based Disaster Monitoring System
+#Satellite-Based Disaster Monitoring and Alert System
 
 ## Project Description
 This project detects disaster-related satellite images and stores the information in AWS.
